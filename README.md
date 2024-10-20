@@ -34,6 +34,11 @@ La función del chat así como la creación de grupos está enfocada a poder com
 
 ### Wireframe <a name="wireframe"></a>
 
+Nuestra idea básica del wireframe principal es esta:
+
+<div align=center>
+    <img src="./img/wireframe-example.png" alt="wireframe"/>
+</div>
 
 ### Mockup <a name="mockup"></a>
 
