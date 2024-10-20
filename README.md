@@ -13,7 +13,7 @@
 
 ## Índice
 
-- [Herramientas utilizadas](#herramientas)
+- [Herramientas](#herramientas)
 - [Idea](#idea)
 - [Wireframe](#wireframe)
 - [Mockup](#mockup)
