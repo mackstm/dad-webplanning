@@ -2,7 +2,8 @@
 
 # Game Hunter
 
-</br>
+
+>✒️ __Autores__: José Maximiliano B. M. (@mackstm), Nabil L.A. (@nalleon)
 
 <div align=center>
     <img src="./img/logo-dark.PNG" width="500" height="auto" alt="logo dark version"/>
@@ -12,16 +13,31 @@
 
 ## Índice
 
+- [Herramientas utilizadas](#herramientas)
 - [Idea](#idea)
 - [Wireframe](#wireframe)
 - [Mockup](#mockup)
 - [Prototipo](#prototipo)
-- [Herramientas utilizadas](#herramientas)
 </br>
 
 ***
 
 ### Herramientas <a name="herramientas"></a>
+
+Las dos herramientas principales que hemos utilizado a lo largo de esta tarea han sido:
+
+- <a href="https://balsamiq.com/">Balsamiq</a> (Wireframe)
+
+- <a href="https://www.figma.com">Figma</a> (Mockup y Prototype)
+
+<div align="center">
+    <img src="img/balsamiq-logo.png" alt="balsamiq-logo" width="35%">
+    <img src="img/figma-logo.png" alt="figma-logo" width="23%">
+</div>
+
+</br>
+
+***
 
 ###  Idea <a name="idea"></a>
 
@@ -83,5 +99,5 @@ Ejemplo de flujo básico para registrarse e iniciar sesión en la aplicación.
 <div align=center><img src="./img/prototype-flow.png" alt="prototype flow"/></div>
 </br>
 
-<div align=center><img src="./img/" alt="prototype flow gif"/></div>
+<div align=center><img src="./img/prototype.gif" alt="prototype flow gif"/></div>
 </div>
