@@ -22,9 +22,9 @@
 
 ###  Idea <a name="idea"></a>
 
-Nuestra idea se ha basado en crear un portal de búsqueda de videojuegos de segunda mano en vista a la busqueda de videojuegos no tan actuales con el objetivo de coleccionismo. Además, aparte de esto, los usuarios podran poner a la venta sus propios juegos en la apliacion para venderlos.
+Nuestra idea se ha basado en crear un portal de búsqueda de videojuegos de segunda mano en vista a la busqueda de videojuegos no tan actuales con el objetivo de coleccionismo. Además, aparte de esto, los usuarios podran poner a la venta sus propios juegos en la aplicacion para venderlos.
 
-Cabe destacar que una parte en la que deseamos hacer enfasis es en la comparativa de precios, con una posible gráfica del juego por parte de distintos vendedores para facilitar la compra y la selección del producto.
+Cabe destacar que una parte en la que deseamos hacer énfasis es en la comparativa de precios, con una posible gráfica del juego por parte de distintos vendedores para facilitar la compra y la selección del producto.
 
 También, en base a los géneros de los juegos que haya mirado y/o comprado un usuario, se le recomendaran ciertos productos que le podrían interesar. Por ejemplo si un usuario a estado mirando juegos de la saga Final Fantasy, se le recomendarán juegos de esa saga y otros con los que comparta géneros (por ejemplo: Xenogears y Chrono Trigger como otros JRPG).
 
@@ -41,6 +41,8 @@ Nuestra idea básica del wireframe principal es esta:
 </div>
 
 ### Mockup <a name="mockup"></a>
+
+Hemos pensado en añadir una personalización de los colores dentro del modo oscuro y claro de la aplicación, en este caso el color de los detalles es verde, pero podría ser cambiado por otros colores como el rojo, morado, azul, etc.
 
 - Versión para móviles:
 
@@ -60,8 +62,10 @@ Nuestra idea básica del wireframe principal es esta:
     <img src="./img/mockup-tablet.png" alt="tablet"/>
 </div>
 
+### Prototipo <a name="prototipo"></a>
 
-### Prototipo <a name="prototipo">
-</a>
+Ejemplo de flujo básico para registrarse e iniciar sesión en la aplicación.
+<div align=center><img src="./img/prototype-flow.png" alt="prototype flow"/></div>
+
 
 </div>
