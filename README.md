@@ -41,13 +41,13 @@ Las dos herramientas principales que hemos utilizado a lo largo de esta tarea ha
 
 ###  Idea <a name="idea"></a>
 
-Nuestra idea se ha basado en crear un portal de búsqueda de videojuegos de segunda mano en vista a la busqueda de videojuegos no tan actuales con el objetivo de coleccionismo. Además, aparte de esto, los usuarios podran poner a la venta sus propios juegos en la aplicacion para venderlos.
+Nuestra idea se ha basado en crear un portal de búsqueda de videojuegos de segunda mano en vista a la búsqueda de videojuegos no tan actuales con el objetivo de coleccionismo. Además, aparte de esto, los usuarios podrán poner a la venta sus propios juegos en la aplicación para venderlos.
 
 Cabe destacar que una parte en la que deseamos hacer énfasis es en la comparativa de precios, con una posible gráfica del juego por parte de distintos vendedores para facilitar la compra y la selección del producto.
 
-También, en base a los géneros de los juegos que haya mirado y/o comprado un usuario, se le recomendaran ciertos productos que le podrían interesar. Por ejemplo si un usuario a estado mirando juegos de la saga Final Fantasy, se le recomendarán juegos de esa saga y otros con los que comparta géneros (por ejemplo: Xenogears y Chrono Trigger como otros JRPG).
+También, en base a los géneros de los juegos que haya mirado y/o comprado un usuario, se le recomendarán ciertos productos que le podrían interesar. Por ejemplo si un usuario ha estado mirando juegos de la saga Final Fantasy, se le recomendarán juegos de esa saga y otros con los que comparta géneros (por ejemplo: Xenogears y Chrono Trigger como otros JRPG).
 
-En su perfil, el usuario podra archivar según su preferencia como pública, solo para amigos o privada su colección, ya que esto puede ser de ayuda para llevar un registro y además añade un componente social.
+En su perfil, el usuario podrá archivar según su preferencia como pública, solo para amigos o privada su colección, ya que esto puede ser de ayuda para llevar un registro y además añade un componente social.
 
 La función del chat así como la creación de grupos está enfocada a poder compartir ofertas de posible interés.
 
