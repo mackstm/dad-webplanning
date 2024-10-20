@@ -1,12 +1,14 @@
 <div align=justify>
 
-# dad-webplanning
+# Game Hunter
 
 </br>
 
 <div align=center>
     <img src="./img/logo-dark.PNG" width="500" height="auto" alt="logo dark version"/>
 </div>
+
+</br>
 
 ## Índice
 
@@ -20,6 +22,8 @@
 
 </br>
 
+***
+
 ###  Idea <a name="idea"></a>
 
 Nuestra idea se ha basado en crear un portal de búsqueda de videojuegos de segunda mano en vista a la busqueda de videojuegos no tan actuales con el objetivo de coleccionismo. Además, aparte de esto, los usuarios podran poner a la venta sus propios juegos en la aplicacion para venderlos.
@@ -32,6 +36,10 @@ En su perfil, el usuario podra archivar según su preferencia como pública, sol
 
 La función del chat así como la creación de grupos está enfocada a poder compartir ofertas de posible interés.
 
+</br>
+
+***
+
 ### Wireframe <a name="wireframe"></a>
 
 Nuestra idea básica del wireframe principal es esta:
@@ -39,6 +47,9 @@ Nuestra idea básica del wireframe principal es esta:
 <div align=center>
     <img src="./img/wireframe-example.png" alt="wireframe"/>
 </div>
+</br>
+
+***
 
 ### Mockup <a name="mockup"></a>
 
@@ -49,23 +60,29 @@ Hemos pensado en añadir una personalización de los colores dentro del modo osc
 <div align=center>
     <img src="./img/mockup-mobile.png" alt="mobile"/>
 </div>
-<br>
+</br>
 
 - Versión para escritorio:
 <div align=center>
     <img src="./img/mockup-desktop.png" alt="desktop"/>
 </div>
-<br>
+</br>
 
 - Versión para tablet:
 <div align=center>
     <img src="./img/mockup-tablet.png" alt="tablet"/>
 </div>
 
+</br>
+
+***
+
 ### Prototipo <a name="prototipo"></a>
 
 Ejemplo de flujo básico para registrarse e iniciar sesión en la aplicación.
+
 <div align=center><img src="./img/prototype-flow.png" alt="prototype flow"/></div>
+</br>
 
-
+<div align=center><img src="./img/" alt="prototype flow gif"/></div>
 </div>
