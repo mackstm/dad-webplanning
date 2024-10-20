@@ -13,16 +13,15 @@
 ## Índice
 
 - [Idea](#idea)
-
 - [Wireframe](#wireframe)
-
 - [Mockup](#mockup)
-
 - [Prototipo](#prototipo)
-
+- [Herramientas utilizadas](#herramientas)
 </br>
 
 ***
+
+### Herramientas <a name="herramientas"></a>
 
 ###  Idea <a name="idea"></a>
 
