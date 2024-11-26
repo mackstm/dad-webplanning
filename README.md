@@ -35,6 +35,8 @@ Las dos herramientas principales que hemos utilizado a lo largo de esta tarea ha
     <img src="img/figma-logo.png" alt="figma-logo" width="23%">
 </div>
 
+Puede encontrar nuestro proyecto [aquí](https://www.figma.com/design/qIMrElrlntaXp2e9UN5HOv/Mockup?node-id=0-1&t=SEKcfCPvjLvh0v3L-1)
+
 </br>
 
 ***
